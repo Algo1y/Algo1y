@@ -2,7 +2,7 @@
 - 👀 I’m interested in algo trading
 - 🌱 I’m currently learning algo trading
 - 💞️ I’m looking to collaborate on crypto algo trading
-- 📫 How to reach me hamid_sedghi@yahoo.com
+- 📫 How to reach me here
 
 <!---
 Algo1y/Algo1y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
